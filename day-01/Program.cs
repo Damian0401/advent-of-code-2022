@@ -4,6 +4,7 @@ Console.WriteLine("Have a nice day!");
 // PartOne();
 // PartTwo();
 
+#pragma warning disable
 
 void PartOne()
 {
